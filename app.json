@@ -1,9 +1,9 @@
 {
-  "name": "Whatsbot",
+  "name": "Trina",
   "description": "Modular Us**B*t for Whatsapp",
-  "repository": "https://github.com/tuhinpal/WhatsBot",
-  "logo": "https://telegra.ph/file/96ccad5945c18944c5f15.png",
-  "keywords": ["whatsbot", "whatsapp-bot", "whatsapp"],
+  "repository": "https://github.com",
+  "logo": "https://telegra.ph/file/4d636fce284bc20ec3987.png",
+  "keywords": ["nb", "mw", "tt"],
   "stack": "container",
   "env": {
     "SESSION": {
