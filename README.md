@@ -91,18 +91,4 @@ _You can develop your own module for Whatsbot. Check out the [wiki](https://gith
 
 ### Contributors :
 
-Whatsbot is fully depended on it's community, Feel free to open a PR if you added a new feature. Thanks to these Great Developers for contributing.
-
-<a href="https://github.com/tuhinpal/whatsbot/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=tuhinpal/whatsbot" />
-</a>
-
-### License & Copyright :
-
-- This Project is [Apache-2.0](https://github.com/tuhinpal/WhatsBot/blob/main/LICENSE) Licensed
-- Copyright 2021 by [Tuhin Kanti Pal](https://github.com/cachecleanerjeet)
-
-### Connect :
-
-- [Channel](https://telegram.dog/whatsbotnews)
-- [Support Group](https://telegram.dog/whatsbotsupport)
+This is fully depended on it's community, Feel free to open a PR if you added a new feature. Thanks to these Great Developers for contributing.
