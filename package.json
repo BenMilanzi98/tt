@@ -1,5 +1,5 @@
 {
-  "name": "whatsbot",
+  "name": "trina",
   "version": "2.1.1",
   "description": "Plugable U***b*t for WhatsApp",
   "main": "main.js",
@@ -15,7 +15,7 @@
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "Tuhin Kanti Pal",
+  "author": "Ben Milanzi",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/tuhinpal/WhatsBot/issues"
