@@ -15,12 +15,12 @@ async function get(battery, phn_info) {
 
   return {
     msg:
-      `*Whatsbot*\n\nThis chat is Powered By *Whatsbot*\n\n*Battery:* ${batttxt}\n*Device:* ${phn_info.device_manufacturer} ${phn_info.device_model}\n*WA Version:* ${phn_info.wa_version}\n*Whatsbot Version:* ${packageJson.version}\n*Pmpermit:* ${config.pmpermit_enabled}\n\n*Official Repository Url 👇*\n` +
-      "```https://github.com/tuhinpal/WhatsBot```",
+      `*Trina*\n\nThis chat is Powered By *Tech Transformation*\n\n*Battery:* ${batttxt}\n*Device:* ${phn_info.device_manufacturer} ${phn_info.device_model}\n*WA Version:* ${phn_info.wa_version}\n*Trina Version:* ${packageJson.version}\n*Pmpermit:* ${config.pmpermit_enabled}\n\n*Official Facebook page 👇*\n` +
+      "```https://facebook.com/techtransformationmw```",
     mimetype: "image/jpeg",
     data: Buffer.from(
       (
-        await axios.get("https://telegra.ph/file/ecbc27f276890bf2f65a2.jpg", {
+        await axios.get("https://telegra.ph/file/7787ccd20315d6fb23ce3.jpg", {
           responseType: "arraybuffer",
         })
       ).data
@@ -48,6 +48,6 @@ module.exports = {
   command: "!start",
   commandType: "info",
   isDependent: false,
-  help: "Get information about your WhatsBot",
+  help: "Get information about your Trina",
   execute,
 };
